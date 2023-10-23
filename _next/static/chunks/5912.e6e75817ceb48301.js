@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5912],{85912:function(e){e.exports=JSON.parse('{"config":{"supportedLanguages":[{"language":"en","label":"English"},{"language":"cn","label":"简体中文"}],"defaultLanguage":{"language":"en","label":"English"}}}')}}]);

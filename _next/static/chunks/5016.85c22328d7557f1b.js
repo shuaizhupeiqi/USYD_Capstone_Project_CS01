@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5016],{25016:function(e){e.exports=JSON.parse('{"translation":{"Low":"低","Medium":"中","High":"高","Extreme":"极端","NowLabel":"当前","MaxLabel":"最高","NowIsMaxLabel":"当前是最高"}}')}}]);

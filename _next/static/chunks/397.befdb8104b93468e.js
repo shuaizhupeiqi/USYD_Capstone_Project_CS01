@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[397],{60397:function(e){e.exports=JSON.parse('{"translation":{"copyright":"\xa9 2022 - Heat and Health Research Incubator, USYD","version":"Version: ","authors":""}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5715],{55715:function(s){s.exports=JSON.parse('{"translation":{"copyright":"\xa9 2022 - 温度与健康研究孵化器，悉尼大学","version":"版本：","authors":""}}')}}]);

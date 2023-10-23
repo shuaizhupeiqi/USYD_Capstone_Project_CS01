@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8331],{58331:function(e){e.exports=JSON.parse('{"translation":{"webTitlemob":"Heat stress scale","webTitle":"HSS","moreTap":"More","settingTap":"Setting","languageTap":"Language","homePage":"Home","mobileMenuTitle":"Menu","documentTap":"Documentation","introductionTap":"Introduction","aboutTap":"About"}}')}}]);

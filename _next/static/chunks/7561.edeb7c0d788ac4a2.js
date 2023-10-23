@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7561],{79112:function(e){e.exports=JSON.parse('{"translation":{"SampleText":"这是一个测试语句","HssDividerLabel":"HSS数值 & 风险","current":"当前","maxLabel":"今日最高","currentMax":"当前为最高"}}')}}]);
