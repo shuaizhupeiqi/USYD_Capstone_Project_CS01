@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5236],{35236:function(e){e.exports=JSON.parse('{"translation":{"webTitlemob":"热应激量表","webTitle":"HSS","moreTap":"更多","aboutTap":"关于网站","settingTap":"设置","languageTap":"语言","homePage":"主页","mobileMenuTitle":"菜单","documentTap":"文档","introductionTap":"介绍"}}')}}]);
