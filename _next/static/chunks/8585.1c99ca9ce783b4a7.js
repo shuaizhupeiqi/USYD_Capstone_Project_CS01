@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8585],{18585:function(e){e.exports=JSON.parse('{"translation":{"LocationText":"地区","LocationDropdown":"选择您的地区","LocateMeButtonLabel":"定位","searchbox":"选择位置查询"}}')}}]);
