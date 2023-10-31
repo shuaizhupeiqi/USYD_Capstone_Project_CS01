@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6476],{6476:function(e){e.exports=JSON.parse('{"translation":{"Low":"Low","Medium":"Moderate","High":"High","Extreme":"Extreme","NowLabel":"Now","MaxLabel":"Max","NowIsMaxLabel":"Now Is Max"}}')}}]);

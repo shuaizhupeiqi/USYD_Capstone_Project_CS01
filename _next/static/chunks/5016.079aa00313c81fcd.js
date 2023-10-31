@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5016],{25016:function(a){a.exports=JSON.parse('{"translation":{"Low":"低","Medium":"中","High":"高","Extreme":"极端","NowLabel":"当前","MaxLabel":"最高","NowIsMaxLabel":"当前是最高","Explanation_Tittle":"解释: ","Explanation":"HSS风险等级展示了当日最高风险和当前风险级别"}}')}}]);
