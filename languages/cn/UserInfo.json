@@ -1,0 +1,10 @@
+{
+    "translation": {
+        "Relationship":{
+            "MySelf": "自己",
+            "Family": "家庭成员",
+            "Friends": "朋友",
+            "Anonymous": "未知"
+        }
+    }
+    }

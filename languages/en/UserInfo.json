@@ -1,0 +1,10 @@
+{
+    "translation": {
+        "Relationship":{
+            "MySelf": "MySelf",
+            "Family": "Family",
+            "Friends": "Friends",
+            "Anonymous": "Anonymous"
+        }
+    }
+    }

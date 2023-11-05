@@ -1,0 +1,31 @@
+{
+  "translation": {
+    "webTitlemob": "热应激量表",
+    "mainText": "热应激量表",
+    "mainTextIntro":"HSS 提供了对当前和预测的热应激风险的简单解释。 它使用室外空气温度、湿度、太阳辐射和风速.",
+    "subtitle1":"什么是HSS？",
+    "subtitle1_1":"简要说明",
+    "subtitle1_2":"HSS计算",
+    "subtitle2":"建议",
+    "subtitle3":"额外的功能",
+    "GetStart":"开始",
+    "card1content":"热应激量表（HSS）旨在增强社区对热浪灾害的抵御能力.",
+    "card2content":"HSS 使用室外温度、湿度、太阳辐射和风速来评估热应激风险，这些数据来自[Norwegian Meteorological Institute](https://www.met.no/)。这些因素与体温调节模型中的个人数据相结合，产生四种风险类别：低、中、高和极端.",
+    "card3content":"请使用或了解以下建议，并尽可能遵循这些建议，以确保您的热应激安全.",
+    "card4content":"热应激量表（HSS）旨在增强社区对热浪灾害的抵御能力.",
+    "Low":"低",
+    "Moderate":"中等",
+    "High":"高",
+    "Extreme":"极端",
+    "DetRec":"详细建议",
+    "Readmore":"阅读更多",
+    "Home":"主页",
+    "HomeContent":"你可以从主页了解你的专属热应激信息和数据，以及针对性的建议。",
+    "Setting":"设置",
+    "SettingContent":"你可以在设置页面存储你和家人的信息来获取特定的热应激数据，并且获取高温警示。",
+    "Map":"地图",
+    "MapContent":"你可以在“更多”页面通过地图得到更多信息例如：湿度，风，云的情况。"
+
+
+  }
+}
